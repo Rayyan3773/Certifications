@@ -1,5 +1,4 @@
-# Certifications
-Certificates of Skill that I have acquired
+# Certifications of Skill that I have acquired
 
 # Google Cloud Skill Boost
 1) Beginner: Introduction to Generative AI Learning Path
