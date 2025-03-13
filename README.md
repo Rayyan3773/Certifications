@@ -11,3 +11,11 @@
 3) Building Transformer-Based Natural Language Processing Applications
 4) Fundamentals of Accelerated Computing with CUDA C/C++
 5) Fundamentals of Accelerated Computing with CUDA Python
+
+# Finlatics Business Analytics
+1) EXCEL Learned keypoints
+     -> Using EXCEL to analyse business data
+     -> Creating Pivot Tables for concise presentation
+     -> Using Graphs to effectively present data
+2) PowerBI Learned keypoints
+     -> Effectively representing data for representaion of data in graphs and tables
