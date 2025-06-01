@@ -21,8 +21,9 @@
      -> Effectively representing data for representaion of data in graphs and tables
 
 # Intorduction to Quantum Computing
-      -> Quantum Mechanics
-      -> Qubit state
-      -> Operations
-      -> Quantum Superposition
-      -> Quantum Gates
+Learned Keypoints
+     1) Quantum Mechanics
+     2)Qubit state
+     3)Operations
+     4) Quantum Superposition
+     5) Quantum Gates
