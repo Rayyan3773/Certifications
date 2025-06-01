@@ -19,3 +19,10 @@
      -> Using Graphs to effectively present data
 2) PowerBI Learned keypoints
      -> Effectively representing data for representaion of data in graphs and tables
+
+# Intorduction to Quantum Computing
+      -> Quantum Mechanics
+      -> Qubit state
+      -> Operations
+      -> Quantum Superposition
+      -> Quantum Gates
